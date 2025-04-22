@@ -1,4 +1,4 @@
-public interface Navegador {
+public interface WebBrowser {
 
     void openPage();
 

@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class Iphone implements PlayerMusica, Telefone, Navegador {
+public class Cellphone implements MusicPlayer, Telephone, WebBrowser {
 
 
     public void selectionMusic() {

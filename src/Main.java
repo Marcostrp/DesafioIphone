@@ -7,7 +7,7 @@ public class Main {
         int subOption = -1;
         int option = -1;
 
-        Iphone iphone = new Iphone();
+        Cellphone iphone = new Cellphone();
 
         System.out.println("--------Escolha a função--------");
         System.out.println(" ");

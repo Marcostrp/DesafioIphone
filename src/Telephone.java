@@ -1,4 +1,4 @@
-public interface Telefone {
+public interface Telephone {
 
    void acceptCall();
 

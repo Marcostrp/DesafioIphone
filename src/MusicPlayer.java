@@ -1,4 +1,4 @@
-public interface PlayerMusica {
+public interface MusicPlayer {
 
     void selectionMusic();
 
