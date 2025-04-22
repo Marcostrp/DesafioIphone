@@ -1,4 +1,8 @@
-package PACKAGE_NAME;
-
 public interface Navegador {
+
+    void openPage();
+
+    void newTab();
+
+    void refreshPage();
 }

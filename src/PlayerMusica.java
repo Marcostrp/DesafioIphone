@@ -1,6 +1,6 @@
-public interface PlayerMusic {
+public interface PlayerMusica {
 
-    void selectMusic();
+    void selectionMusic();
 
     void playMusic();
 

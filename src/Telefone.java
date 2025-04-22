@@ -1,4 +1,8 @@
-package PACKAGE_NAME;
-
 public interface Telefone {
+
+   void acceptCall();
+
+   void startCall();
+
+   void voiceMail();
 }
